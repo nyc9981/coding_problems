@@ -1,2 +1,2 @@
-# coding_problems
+# coding problems
 Solve coding problems in Python
